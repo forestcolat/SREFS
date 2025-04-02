@@ -53,4 +53,4 @@ If anything goes right, it should output something like this:
 
 # Disclaimer
 
-Al most none of this work is mine. The original idea comes from [Tyrrrz's comment on Reddit post about the Steam Deck issue]([https://github.com/Tyrrrz/FFmpegBin](https://www.reddit.com/r/Steam/comments/1g32h3g/comment/mhtneo2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)). As for me, while I did created a basic and arcaic script, I refined it through the use of A.I. (DeepSeek in this case). Please do not ask me for support, as I have almost no understanding of the code. 
+Al most none of this work is mine. The original idea comes from [Tyrrrz's comment on Reddit post about the Steam Deck issue](https://www.reddit.com/r/Steam/comments/1g32h3g/steam_game_recording_exporting_videos_that_are/). As for me, while I did created a basic and arcaic script, I refined it through the use of A.I. (DeepSeek in this case). Please do not ask me for support, as I have almost no understanding of the code. 
