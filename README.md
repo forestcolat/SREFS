@@ -34,7 +34,23 @@
 ## 🚀 Usage
 Just right click the script and select "execute on konsole". You can also open Konsole and just Drag & Drop the script on the konsole window.
 
-```bash
-✓ Already exists: FF_output/FF_video1.mp4
-✅ Success: FF_output/FF_video2.mp4
-dddd
+If anything goes right, it should output something like this:
+
+`=== Conversion Summary ===
+• Successfully converted: 3 file(s)
+• Skipped (already exists): 2 file(s)
+• Time elapsed: 00:05:23
+• Output location: /path/to/FF_output`
+
+---
+
+# Download
+
+[Direct download](https://github.com/Tyrrrz/FFmpegBin)
+
+
+---
+
+# Disclaimer
+
+Al most none of this work is mine. The original idea comes from [Tyrrrz's comment on Reddit post about the Steam Deck issue]([https://github.com/Tyrrrz/FFmpegBin](https://www.reddit.com/r/Steam/comments/1g32h3g/comment/mhtneo2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)). As for me, while I did created a basic and arcaic script, I refined it through the use of A.I. (DeepSeek in this case). Please do not ask me for support, as I have almost no understanding of the code. 
