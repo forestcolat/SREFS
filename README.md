@@ -44,7 +44,7 @@ If anything goes right, it should output something like this:
 
 ---
 
-# Download
+# ⬇︎ Download
 
 [Direct download](https://github.com/forestcolat/SREFS/releases/download/Release/SREFS_FFMPEG.sh)
 
