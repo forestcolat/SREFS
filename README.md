@@ -13,7 +13,7 @@
 3. Type "Y" if needed every time is asked
 
 ### Download and install script
-1. On [Releases]([https://github.com/Tyrrrz/FFmpegBin](https://github.com/forestcolat/SREFS/releases/tag/Release)), download the script.
+1. On [Releases](https://github.com/forestcolat/SREFS/releases/tag/Release), download the script.
 2. Put the script file in your video's location
 5. Right click on the script > Properties > Permissions
 6. Owner: can read & Write
