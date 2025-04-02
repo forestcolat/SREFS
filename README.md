@@ -9,7 +9,24 @@
 ## 🛠 Installation
 ### Install **ffmpeg** if you don't have it:
 1. Open Konsole
-2. type #d
+2. type `sudo pacman -S ffmpeg`
+3. Type "Y" if needed every time is asked
+
+### Download Script
+1. On "Releases", download the script.
+2. Put the .zip file in your video's location
+3. Right click, extract here
+4. Delete .zip file
+
+### If you have problems with ffmpeg, try FFmpegBin:
+1. Go to [FFmpegbin official Github](https://github.com/Tyrrrz/FFmpegBin)
+2. Go to "Releases"
+3. On releases, select "ffmpeg-linux-x64.zip"
+4. Put that .zip in `/home/deck/`
+5. Right click, extract here
+6. Delete .zip file
+
+
 
 ```bash
 ✓ Already exists: FF_output/FF_video1.mp4
