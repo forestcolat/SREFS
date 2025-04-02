@@ -13,10 +13,8 @@
 3. Type "Y" if needed every time is asked
 
 ### Download and install script
-1. On "Releases", download the script.
-2. Put the .zip file in your video's location
-3. Right click > extract here
-4. Delete .zip file
+1. On [Releases](https://github.com/Tyrrrz/FFmpegBin), download the script.
+2. Put the script file in your video's location
 5. Right click on the script > Properties > Permissions
 6. Owner: can read & Write
 7. Check "Is executable"
@@ -46,7 +44,7 @@ If anything goes right, it should output something like this:
 
 # Download
 
-[Direct download](https://github.com/Tyrrrz/FFmpegBin)
+[Direct download](https://github.com/forestcolat/SREFS/releases/download/Release/SREFS_FFMPEG.sh)
 
 
 ---
