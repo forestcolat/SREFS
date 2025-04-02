@@ -1,6 +1,5 @@
-# FFMPEG Video Converter Script
-
-📁 A bash script that batch converts MP4 videos to `libx264rgb` codec, with organized output and progress tracking.
+# Steam REcordings FFMPEG Script (SREFS)
+📁 This is a bash script that batch converts MP4 videos to `libx264rgb` codec, with organized output and progress tracking.
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-%234EAA25?logo=gnu-bash) 
 ![FFmpeg](https://img.shields.io/badge/Codec-FFmpeg-%230077CC?logo=ffmpeg)
