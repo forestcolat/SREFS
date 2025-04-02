@@ -34,11 +34,13 @@ Just right click the script and select "execute on konsole". You can also open K
 
 If anything goes right, it should output something like this:
 
-´´´=== Conversion Summary ===
+```text
+=== Conversion Summary ===
 • Successfully converted: 3 file(s)
 • Skipped (already exists): 2 file(s)
 • Time elapsed: 00:05:23
-• Output location: /path/to/FF_output´´´
+• Output location: /path/to/FF_output
+```
 
 ---
 
